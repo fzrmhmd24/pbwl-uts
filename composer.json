@@ -1,0 +1,16 @@
+{
+    "name": "acer/utsfajira",
+    "description": "UTS Pemrograman Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fajira"
+        }
+    ],
+    "require": {}
+}
